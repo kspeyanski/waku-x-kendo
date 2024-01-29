@@ -1,0 +1,13 @@
+{
+    "name": "kendo",
+    "private": true,
+    "dependencies": {
+        "react": "*",
+        "react-dom": "*",
+        "@progress/kendo-react-server-components": "^0.1.2"
+    },
+    "devDependencies": {
+        "@types/react": "*",
+        "@types/react-dom": "*"
+    }
+}
